@@ -1,0 +1,14 @@
+html, body{
+  background-color: #141414;
+}
+.sty{
+color: #ffffff;
+font-size: 30px;
+}
+.sty:hover{
+  cursor: pointer;
+  color: #eaeaea;
+}
+img{
+  cursor: pointer;
+} 
